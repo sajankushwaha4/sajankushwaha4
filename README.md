@@ -1,6 +1,5 @@
 # 💫 About Me:
 # 👋 Hi, I'm Sajan Kushwaha<br><br>💻 Aspiring Software Engineer | Cloud Computing | AI & Data Science<br><br>🎓 BCA Graduate | MCA Aspirant<br><br>💼 Procurement Professional transitioning into IT<br><br>🌱 Currently learning Java, Spring Boot, Python, SQL, AWS & Power BI<br><br>🚀 Building real-world Full Stack, Cloud and Data Analytics Projects<br><br>🎯 Goal: Become a Cloud & AI Engineer<br><br>⚡ Fun Fact: I believe consistency beats talent.
-![Snake animation](https://raw.githubusercontent.com/sajankushwaha4/sajankushwaha4/output/github-contribution-grid-snake.svg)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/sajan__kushwaha__) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sajankushwaha) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kushwahsajan064@gmail.com) 
