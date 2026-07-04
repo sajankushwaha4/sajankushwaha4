@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi 👋, I'm Sajan Kushwaha<br><br>🎓 BCA Graduate | MCA Aspirant<br>💼 Procurement Professional transitioning into IT<br>☁️ Learning Cloud Computing | AI | Data Science<br>💻 Java | Python | SQL | HTML | CSS | JavaScript<br>📊 Power BI | Excel | Git | GitHub<br><br>🚀 Currently Building:<br>- Full Stack Projects<br>- Cloud Projects<br>- Data Analytics Dashboards<br><br>📫 Reach Me:<br>📧 your-email@example.com<br>💼 LinkedIn: linkedin.com/in/yourprofile<br><br>⭐ "Learning every day. Building every week."
+# Hi 👋, I'm Sajan Kushwaha<br><br>🎓 BCA Graduate | MCA Aspirant<br>💼 Procurement Professional transitioning into IT<br>☁️ Learning Cloud Computing | AI | Data Science<br>💻 Java | Python | SQL | HTML | CSS | JavaScript<br>📊 Power BI | Excel | Git | GitHub<br><br>🚀 Currently Building:<br>- Full Stack Projects<br>- Cloud Projects<br>- Data Analytics Dashboards<br><br>📫 <br>⭐ "Learning every day. Building every week."
 
 
 ## 🌐 Socials:
