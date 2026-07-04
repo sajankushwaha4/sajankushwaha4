@@ -12,6 +12,6 @@
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=sajankushwaha4&theme=vision-friendly-dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://komarev.com/ghpvc/?username=sajankushwaha4&icon=7&color=0)](https://visitcount.itsvg.in)
+[![](https://komarev.com/ghpvc/?username=sajankushwaha4&icon=1&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
