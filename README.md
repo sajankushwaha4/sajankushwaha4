@@ -133,12 +133,6 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Power BI • Excel 
 
 ---
 
-# 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=sajankushwaha4&theme=algolia&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
 # 📌 Current Goals
 
 ✔ Master Java & Spring Boot
