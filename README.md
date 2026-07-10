@@ -116,6 +116,10 @@ Git • GitHub • VS Code • IntelliJ IDEA • Postman • Power BI • Excel 
 
 🏅 AWS (Learning)
 
+🏅 Excel Mastery
+
+🏅 Deloitte Australia - Cyber Job Simulation
+
 ---
 
 # 📈 GitHub Statistics
