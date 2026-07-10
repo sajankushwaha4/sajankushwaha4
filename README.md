@@ -1,22 +1,3 @@
-<div align="center">
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=venom&color=0:000000,20:0B1F3A,60:0F4C81,80:1E88E5,100:42A5F5&height=300&section=header&text=SAJAN%20KUSHWAHA&fontSize=64&fontColor=ffffff&fontAlignY=40&desc=Java%20Full%20Stack%20Developer%20•%20Spring%20Boot%20•%20REST%20API%20•%20India%20🇮🇳&descAlignY=60&descSize=17&animation=fadeIn&stroke=ffffff&strokeWidth=1" />
-
-<br>
-
-![](https://komarev.com/ghpvc/?username=sajankushwaha4&style=for-the-badge&color=blue)
-
-![](https://img.shields.io/badge/Open%20To-Work-success?style=for-the-badge)
-
-![](https://img.shields.io/badge/Based-In%20India-orange?style=for-the-badge)
-
-<br><br>
-
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+REST+API+Developer;Python+%7C+MySQL+%7C+JavaScript;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile!" />
-
-</div>
-
----
 
 <!-- ===================== Banner ===================== -->
 
