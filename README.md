@@ -18,493 +18,179 @@
 
 ---
 
-# 👋 Hi, I'm Sajan Kushwaha
+<!-- ===================== Banner ===================== -->
 
-### 💻 Java Full Stack Developer
+<h1 align="center">Hi 👋, I'm Sajan Kushwaha</h1>
 
-I'm a passionate software developer from **India 🇮🇳** who enjoys building scalable web applications using Java and Spring Boot.
-
-- 🔭 Currently Working on **Spring Boot Projects**
-- 🌱 Learning **Microservices, Docker & AWS**
-- 💬 Ask me about **Java, Spring Boot, SQL & REST APIs**
-- ⚡ Fun Fact: I love solving coding challenges and building real-world applications.
-
----
-
-## 🚀 About Me
-
-```java
-public class SajanKushwaha {
-
-    String location = "Pune, Maharashtra, India";
-
-    String role = "Java Full Stack Developer";
-
-    String[] skills = {
-        "Java",
-        "Spring Boot",
-        "REST API",
-        "MySQL",
-        "Python",
-        "HTML",
-        "CSS",
-        "JavaScript",
-        "Git",
-        "GitHub"
-    };
-
-    String currentFocus = "Backend Development";
-
-    String learning = "Microservices & AWS";
-
-}
-```
-
----
-
-## 🌐 Connect With Me
+<h3 align="center">
+Aspiring Software Engineer | Cloud ☁️ | AI 🤖 | Data Science 📊
+</h3>
 
 <p align="center">
-
-<a href="https://github.com/sajankushwaha4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
-</a>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;AI+%26+Data+Science+Learner;Full+Stack+Developer;Java+%7C+Python+%7C+SQL;Always+Learning+🚀" />
 </p>
 
 ---
+
+# 👨‍💻 About Me
+
+🎓 BCA Graduate | MCA Aspirant
+
+💼 Procurement Professional transitioning into IT
+
+☁️ Passionate about Cloud Computing
+
+🤖 Learning Artificial Intelligence & Machine Learning
+
+📊 Exploring Data Science & Data Analytics
+
+💻 Building Full Stack Applications
+
+🌱 Currently Learning
+
+- Java
+- Spring Boot
+- Python
+- SQL
+- AWS
+- Power BI
+
+🎯 Goal
+
+Become a Cloud & AI Engineer while building impactful software.
+
+⚡ Fun Fact
+
+> "Consistency creates opportunities."
+
+---
+
+# 🌐 Connect with Me
+
+<p align="left">
+<a href="https://linkedin.com/in/sajankushwaha">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:kushwahsajan064@gmail.com">
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
+</a>
+
+<a href="https://instagram.com/sajan__kushwaha__">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
+</a>
+</p>
+
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+Java • Python • SQL • JavaScript • C • C++
+
+### Frontend
+
+HTML5 • CSS3 • JavaScript
+
+### Backend
+
+Spring Boot • REST APIs • PHP
+
+### Database
+
+MySQL • SQLite
+
+### Tools
+
+Git • GitHub • VS Code • IntelliJ IDEA • Postman • Power BI • Excel • Apache
+
+---
+
 # 🚀 Featured Projects
 
-<div align="center">
+⭐ Car Rental Management System
 
-<table>
+⭐ Portfolio Website
 
-<tr>
+⭐ Power BI Sales Dashboard
 
-<td width="50%" align="center">
+⭐ Java REST API
 
-### 🎓 Student Management System
+⭐ AWS Cloud Labs
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajankushwaha4&repo=StudentHub&theme=tokyonight" />
-
-**Tech Used**
-
-Java • Spring Boot • REST API • MySQL
-
-</td>
-
-<td width="50%" align="center">
-
-### ☕ Cafe Management System
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajankushwaha4&repo=Cafe-Management-System&theme=tokyonight" />
-
-**Tech Used**
-
-Java • MySQL • HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-
-<tr>
-
-<td width="50%" align="center">
-
-### 🚗 Car Rental Management
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajankushwaha4&repo=Car-Rental-System&theme=tokyonight" />
-
-**Tech Used**
-
-HTML • CSS • JavaScript • MySQL
-
-</td>
-
-<td width="50%" align="center">
-
-### 💍 Wedding Management Website
-
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=sajankushwaha4&repo=Wedding-Management&theme=tokyonight" />
-
-**Tech Used**
-
-HTML • CSS • JavaScript
-
-</td>
-
-</tr>
-
-</table>
-
-</div>
-
----
-
-# 🛠 Tech Stack
-
-<div align="center">
-
-## 💻 Languages
-
-<img src="https://skillicons.dev/icons?i=java,python,javascript,html,css,mysql" />
-
-<br><br>
-
-## ⚙ Backend
-
-<img src="https://skillicons.dev/icons?i=spring,mysql" />
-
-<br><br>
-
-## 🎨 Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap" />
-
-<br><br>
-
-## 🧰 Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,eclipse,postman" />
-
-</div>
-
----
-
-# 📚 Currently Learning
-
-- 🚀 Spring Boot Advanced
-- ☁️ AWS Cloud
-- 🐳 Docker
-- 🔥 Microservices
-- 🤖 AI & Python Automation
-
----
-
-# 🎯 2026 Goals
-
-✅ Master Spring Boot
-
-✅ Build 10+ Full Stack Projects
-
-✅ Crack Product Based Company
-
-✅ Learn AWS & Docker
-
-✅ Open Source Contribution
-
-✅ 1000+ GitHub Contributions
-
----
-
-# 💼 Experience
-
-### 🏢 Deputy Manager – Purchase
-
-**GLOBSI India Sourcing Pvt. Ltd.**
-
-📍 Pune, Maharashtra
-
-- Vendor Management
-- Purchase Orders
-- RFQ Handling
-- Cost Analysis
-- Zoho ERP
-- Excel Reporting
+⭐ Python Automation
 
 ---
 
 # 📜 Certifications
 
-🏆 Java Programming
+🏅 Java
 
-🏆 SQL
+🏅 Python
 
-🏆 Spring Boot
+🏅 SQL
 
-🏆 Python
+🏅 Power BI
 
-🏆 Git & GitHub
+🏅 AWS (Learning)
 
-🏆 REST API Development
+---
+
+# 📈 GitHub Statistics
+
+![](https://github-readme-stats.vercel.app/api?username=sajankushwaha4&show_icons=true&theme=tokyonight)
+
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajankushwaha4&theme=tokyonight)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajankushwaha4&layout=compact&theme=tokyonight)
+
+---
+
+# 📊 Contribution Graph
+
+[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajankushwaha4&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+
+---
+
+# 📌 Current Goals
+
+✔️ Master Java & Spring Boot
+
+✔️ Learn AWS Cloud
+
+✔️ Build AI Projects
+
+✔️ Become a Full Stack Developer
+
+✔️ Contribute to Open Source
+
+✔️ Solve DSA Daily
+
+---
+
+# 📚 Currently Learning
+
+- Cloud Computing
+- Artificial Intelligence
+- Machine Learning
+- Data Science
+- System Design
 
 ---
 
 # 💡 Quote
 
-> **"Consistency beats talent when talent doesn't stay consistent."**
-
----
-# 📊 GitHub Statistics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=sajankushwaha4&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sajankushwaha4&layout=compact&langs_count=10&theme=tokyonight&hide_border=true"/>
-
-</div>
+> *"Dream Big. Stay Consistent. Build Every Day." 🚀*
 
 ---
 
-# 🔥 GitHub Streak
+<p align="center">
+<img src="https://komarev.com/ghpvc/?username=sajankushwaha4&style=for-the-badge&color=blueviolet"/>
+</p>
 
-<div align="center">
+<p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sajankushwaha4&theme=tokyonight&hide_border=true"/>
+⭐ Thanks for visiting my profile ⭐
 
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=sajankushwaha4&theme=tokyo-night&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=sajankushwaha4&theme=tokyonight&no-frame=true&margin-w=10&margin-h=10&column=4"/>
-
-</div>
-
----
-
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<picture>
-
-<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/sajankushwaha4/sajankushwaha4/output/github-contribution-grid-snake-dark.svg"/>
-
-<source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/sajankushwaha4/sajankushwaha4/output/github-contribution-grid-snake.svg"/>
-
-<img alt="Snake Animation" src="https://raw.githubusercontent.com/sajankushwaha4/sajankushwaha4/output/github-contribution-grid-snake-dark.svg"/>
-
-</picture>
-
-</div>
-
-> ⚠️ Snake animation tabhi dikhegi jab GitHub Actions configure karoge.
-
----
-
-# 📅 Coding Activity
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sajankushwaha4&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=sajankushwaha4&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=sajankushwaha4&theme=tokyonight"/>
-
-<br><br>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=sajankushwaha4&theme=tokyonight"/>
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=sajankushwaha4&theme=tokyonight&utcOffset=5.5"/>
-
-</div>
-
----
-
-# 📊 Visitor Analytics
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sajankushwaha4&style=for-the-badge&color=blue"/>
-
-<br><br>
-
-<img src="https://img.shields.io/github/followers/sajankushwaha4?label=Followers&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/stars/sajankushwaha4?affiliations=OWNER&style=for-the-badge"/>
-
-</div>
-
----
-
-# ⚡ Developer Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-# 🎯 Keep Building
-
-<div align="center">
-
-### 💙 *"Code. Learn. Build. Repeat."*
-
-**Thanks for visiting my profile!**
-
-⭐ Star repositories if you like my work.
-
-</div>
-
----
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="https://github.com/sajankushwaha4">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="https://www.linkedin.com/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-&nbsp;
-
-<a href="mailto:your-email@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-# 💻 Development Environment
-
-<div align="center">
-
-| Category | Tools |
-|----------|-------|
-| 💻 IDE | VS Code, IntelliJ IDEA, Eclipse |
-| ⚙ Backend | Spring Boot, REST API |
-| 🎨 Frontend | HTML, CSS, JavaScript |
-| 🗄 Database | MySQL |
-| 🔧 Tools | Git, GitHub, Postman |
-| 🐍 Languages | Java, Python, JavaScript |
-
-</div>
-
----
-
-# 🚀 Current Focus
-
-✔ Building Enterprise Java Applications
-
-✔ Learning Microservices
-
-✔ Docker & Kubernetes
-
-✔ AWS Cloud
-
-✔ System Design
-
-✔ Open Source Contributions
-
----
-
-# 📌 Fun Facts
-
-☕ Coffee + Coding = Productivity
-
-🎯 Always Learning Something New
-
-💡 Love Solving Real-World Problems
-
-🔥 Passionate About Backend Development
-
-🇮🇳 Proud Indian Developer
-
----
-
-# ❤️ Support My Work
-
-If you like my work, don't forget to:
-
-⭐ Star my repositories
-
-🍴 Fork my projects
-
-👨‍💻 Follow my GitHub Profile
-
-🤝 Connect with me on LinkedIn
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sajankushwaha4&label=PROFILE+VIEWS&style=for-the-badge&color=blue"/>
-
-</div>
-
----
-
-# 💬 Random Dev Quote
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
-
-</div>
-
----
-
-<div align="center">
-
-## ⭐ Thanks for Visiting ⭐
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=650&lines=Thanks+for+visiting+my+GitHub!;Happy+Coding!;Keep+Learning+Keep+Growing!;See+You+Again!+🚀"/>
-
-</div>
-
----
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,50:1565C0,100:42A5F5&height=120&section=footer"/>
-name: Generate Snake
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-
-  workflow_dispatch:
-
-jobs:
-  build:
-    runs-on: ubuntu-latest
-
-    steps:
-      - uses: Platane/snk@v3
-        with:
-          github_user_name: sajankushwaha4
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-
-      - uses: crazy-max/ghaction-github-pages@v4
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+</p>
