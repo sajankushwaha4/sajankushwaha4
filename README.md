@@ -1,181 +1,138 @@
-
-<!-- ===================== Banner ===================== -->
-
 <h1 align="center">Hi 👋, I'm Sajan Kushwaha</h1>
 
-<h3 align="center">
-Aspiring Software Engineer | Cloud ☁️ | AI 🤖 | Data Science 📊
-</h3>
-
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=26&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=900&lines=Cloud+Computing+Enthusiast;AI+%26+Data+Science+Learner;Full+Stack+Developer;Java+%7C+Python+%7C+SQL;Always+Learning+🚀" />
+  <a href="https://linkedin.com/in/sajankushwaha">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+
+  <a href="mailto:kushwahsajan064@gmail.com">
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+
+  <a href="https://github.com/sajankushwaha4">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
 </p>
 
 ---
 
-# 👨‍💻 About Me
+## 👨‍💻 About Me
 
-🎓 BCA Graduate | MCA Aspirant
+I'm an aspiring **Software Engineer** passionate about **Cloud Computing, Artificial Intelligence, Data Science, and Full Stack Development**. I enjoy building modern web applications, solving real-world problems, and continuously learning new technologies.
 
-💼 Procurement Professional transitioning into IT
-
-☁️ Passionate about Cloud Computing
-
-🤖 Learning Artificial Intelligence & Machine Learning
-
-📊 Exploring Data Science & Data Analytics
-
-💻 Building Full Stack Applications
-
-🌱 Currently Learning
-
-- Java
-- Spring Boot
-- Python
-- SQL
-- AWS
-- Power BI
-
-🎯 Goal
-
-Become a Cloud & AI Engineer while building impactful software.
-
-⚡ Fun Fact
-
-> "Consistency creates opportunities."
+- 💻 **Languages:** Java, Python, SQL, JavaScript, HTML5, CSS3
+- 🚀 **Backend:** Spring Boot, REST APIs
+- 🗄️ **Database:** MySQL
+- ☁️ **Cloud:** AWS (Learning)
+- 📊 **Data:** Power BI, Excel
+- 🛠️ **Tools:** Git, GitHub, VS Code, IntelliJ IDEA, Postman
 
 ---
 
-# 🌐 Connect with Me
+## 🚀 Current Focus
 
-<p align="left">
-<a href="https://linkedin.com/in/sajankushwaha">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:kushwahsajan064@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://instagram.com/sajan__kushwaha__">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram"/>
-</a>
-</p>
+- 🔭 Building Java Full Stack Projects
+- 🌱 Learning Spring Boot, AWS, AI & Machine Learning
+- 📚 Practicing Data Structures & Algorithms
+- 🤝 Looking to collaborate on Java, Spring Boot & Open Source Projects
+- 💬 Ask me about Java, SQL, HTML, CSS, JavaScript, Spring Boot
 
 ---
 
-# 💻 Tech Stack
+## 🌟 Featured Projects
 
-### Languages
-
-Java • Python • SQL • JavaScript • C • C++
-
-### Frontend
-
-HTML5 • CSS3 • JavaScript
-
-### Backend
-
-Spring Boot • REST APIs • PHP
-
-### Database
-
-MySQL • SQLite
-
-### Tools
-
-Git • GitHub • VS Code • IntelliJ IDEA • Postman • Power BI • Excel • Apache
+| Project | Description |
+|---------|-------------|
+| 🚗 Car Rental Management System | Complete rental website using HTML, CSS, JavaScript & MySQL |
+| ☕ Cafe Management System | Java + Spring Boot + MySQL |
+| 🪑 Luxury Furniture Website | Modern responsive furniture landing page |
+| 📊 Sales Dashboard | Interactive Power BI dashboard |
+| 🤖 AI Resume Analyzer | AI-powered resume analysis project |
+| 🌐 Portfolio Website | Personal portfolio showcasing my skills and projects |
 
 ---
 
-# 🚀 Featured Projects
+## 📜 Certifications
 
-⭐ Car Rental Management System
-
-⭐ Portfolio Website
-
-⭐ Power BI Sales Dashboard
-
-⭐ Java REST API
-
-⭐ AWS Cloud Labs
-
-⭐ Python Automation
+- 🏅 Java Programming
+- 🏅 Python Programming
+- 🏅 SQL
+- 🏅 Power BI
+- 🏅 Excel
+- 🏅 Deloitte Australia Cyber Job Simulation
+- 📖 AWS Cloud (Currently Learning)
 
 ---
 
-# 📜 Certifications
+## 🎯 Current Goals
 
-🏅 Java
-
-🏅 Python
-
-🏅 SQL
-
-🏅 Power BI
-
-🏅 AWS (Learning)
-
-🏅 Excel Mastery
-
-🏅 Deloitte Australia - Cyber Job Simulation
+- ✅ Master Java & Spring Boot
+- ✅ Learn AWS Cloud
+- ✅ Build AI Applications
+- ✅ Improve DSA Skills
+- ✅ Contribute to Open Source
+- ✅ Become a Software Engineer
 
 ---
 
-# 📈 GitHub Statistics
+## 🤝 Connect With Me
+
+- 💼 LinkedIn: YOUR_LINKEDIN_URL
+- 📧 Email: kushwahsajan064@gmail.com
+- 💻 GitHub: https://github.com/sajankushwaha4
+
+---
+
+## 💡 Fun Facts
+
+- 🚀 I love learning new technologies.
+- ☁️ Passionate about Cloud Computing & AI.
+- 📊 Interested in Data Analytics & Automation.
+- 🌱 Learning something new every day.
+
+---
+
+## 📈 GitHub Statistics
+
+<details>
+<summary>📊 GitHub Stats</summary>
+
+<br>
 
 ![](https://github-readme-stats.vercel.app/api?username=sajankushwaha4&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=sajankushwaha4&theme=tokyonight)
+</details>
+
+<details>
+<summary>💻 Most Used Languages</summary>
+
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=sajankushwaha4&layout=compact&theme=tokyonight)
 
----
+</details>
 
-# 📊 Contribution Graph
+<details>
+<summary>🔥 GitHub Streak</summary>
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sajankushwaha4&theme=tokyo-night)](https://github.com/Ashutosh00710/github-readme-activity-graph)
+<br>
 
----
+![](https://github-readme-streak-stats.herokuapp.com/?user=sajankushwaha4&theme=tokyonight)
 
-# 📌 Current Goals
-
-✔️ Master Java & Spring Boot
-
-✔️ Learn AWS Cloud
-
-✔️ Build AI Projects
-
-✔️ Become a Full Stack Developer
-
-✔️ Contribute to Open Source
-
-✔️ Solve DSA Daily
+</details>
 
 ---
 
-# 📚 Currently Learning
-
-- Cloud Computing
-- Artificial Intelligence
-- Machine Learning
-- Data Science
-- System Design
+![](https://komarev.com/ghpvc/?username=sajankushwaha4&style=for-the-badge&color=blueviolet)
 
 ---
 
-# 💡 Quote
+## ⭐ Quote
 
-> *"Dream Big. Stay Consistent. Build Every Day." 🚀*
+> **"Dream Big. Stay Consistent. Build Every Day." 🚀**
 
 ---
 
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=sajankushwaha4&style=for-the-badge&color=blueviolet"/>
-</p>
+### 🙏 Thanks for visiting my profile!
 
-<p align="center">
-
-⭐ Thanks for visiting my profile ⭐
-
-</p>
+⭐ If you like my work, don't forget to **Star ⭐ my repositories** and **Follow** me on GitHub.
